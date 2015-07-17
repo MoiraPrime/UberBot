@@ -1,24 +1,20 @@
 {
   "name": "uberbot",
   "version": "1.0.0",
-  "description": "simple IRC bot",
+  "description": "simple irc bot",
   "main": "main.js",
   "dependencies": {
+    "http": "^0.0.0",
     "irc": "^0.3.12"
   },
   "devDependencies": {},
   "scripts": {
-    "start": "node main.js"
+    "test": "node main.js"
   },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/UberActivist/UberBot.git"
   },
-  "keywords": [
-    "IRC",
-    "UberBot",
-    "UberActivist"
-  ],
   "author": "UberActivist",
   "license": "MIT",
   "bugs": {
