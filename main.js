@@ -16,7 +16,7 @@ server.listen(server_port, server_ip_address, function(){
 
 // Create the configuration
 var auth = []
-var authpass = "UberBOT"
+var authpass = "YouShallPass"
 var randomquote = ["If you see this, something is broken.","...And that's how Bush did 9/11","lol that UberActivist guy is such a pussy, I swear.","Drugs are bad, kids. I got ebola from meth once.","All hail gaben, the one true god.","No children have ever meddled with the Republican Party and lived to tell about it.","Congrats, you have unboxed an Unusual pile of debt."]
 
 var config = {
