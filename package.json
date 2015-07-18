@@ -1,11 +1,12 @@
 {
   "name": "uberbot",
-  "version": "1.0.0",
+  "version": "1.3.3",
   "description": "simple irc bot",
   "main": "main.js",
   "dependencies": {
     "http": "^0.0.0",
-    "irc": "^0.3.12"
+    "irc": "^0.3.12",
+    "mongojs": "^1.0.2"
   },
   "devDependencies": {},
   "scripts": {
